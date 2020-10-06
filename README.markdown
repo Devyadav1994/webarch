@@ -1,4 +1,4 @@
-# Web Architecture for you and me
+# Web Architecture
 
 I have often discussions about Web architecture and HTTP with people who are not totally aware of everything. [W3C Web Architecture](http://www.w3.org/TR/webarch/) document is hard to understand and grasp for most people without a deep knowledge of the Web.
 
